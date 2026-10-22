@@ -1,0 +1,18 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Data and generated outputs
+*.csv
+*.pt
+*.pth
+*.npy
+*.npz
+
+# OS
+.DS_Store
